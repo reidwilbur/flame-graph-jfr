@@ -1,0 +1,9 @@
+target/
+## IntelliJ
+.idea
+*.iml
+
+## Temp
+dependency-reduced-pom.xml
+
+.DS_Store
